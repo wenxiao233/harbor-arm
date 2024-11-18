@@ -1,7 +1,10 @@
 # 前言
 参考教程：[https://blog.gismore.com/archives/install-harbor-on-arm64](https://blog.gismore.com/archives/install-harbor-on-arm64)
+
 github：[https://github.com/bitnami/containers](https://github.com/bitnami/containers)
+
 github加速网站：[https://github.geekery.cn](https://github.geekery.cn) （来源网络）
+
 docker hub镜像网站：[https://docker.fxxk.dedyn.io](https://docker.fxxk.dedyn.io)（来源网络）
 # 1. 环境信息
 ```shell
